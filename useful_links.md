@@ -1,11 +1,12 @@
 # Development Resources
 
 [JSON Placeholder - Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com)
+
 [Robohash](https://robohash.org/)
 
 [Online regex tester](https://regex101.com)
-[Cron Expression Generator & Explainer - Quartz](https://freeformatter.com/cron-expression-generator-quartz.html)
 
+[Cron Expression Generator & Explainer - Quartz](https://freeformatter.com/cron-expression-generator-quartz.html)
 
 [Kubernetes ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller/blob/master/docs/guide/ingress/annotation.md)
 
